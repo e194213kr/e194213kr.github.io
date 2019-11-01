@@ -1,0 +1,22 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color:red;
+}
+h2{
+    color:cyan;
+    text-align:center;
+    background-color:blue;
+}
+h3{
+    color:brown;
+}
+p{
+    color:yellow;
+}
+body{
+    background-image: url(../images/images.jpeg);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: top right;
+   }
