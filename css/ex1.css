@@ -1,0 +1,24 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color:black;
+}
+h3{
+    color:brown;
+    text-align:center;
+    background-color:skyblue
+}
+p{
+    color:yellow;
+}
+body{
+    background-image: url(../images/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89222.jfif);
+    background-attachment:fixed;
+    background-repeat: repeat;
+   }
+table{
+    background-color:orange
+}
+ol{
+     background-image: url(../images/aaaaaa_.jpg);
+}
