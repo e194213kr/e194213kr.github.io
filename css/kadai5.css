@@ -1,0 +1,82 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-color: blue;
+    text-align: left;
+    font-size: 30px;
+    font-family: "impact";
+}
+div.center{
+    width: 1000px;
+    height: 320px;
+    margin-bottom: 20px;
+    font-size: 0;
+    background-color:aqua
+}
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:orange;
+    text-align: right;
+    font-size: 20px;
+}
+div.left{
+    width: 250px;
+    height: 320px;
+    background-color: gray;
+    font-size: 0;
+    display: inline-block;
+    vertical-align : top;
+}
+div.right{
+    width: 700px;
+    height: 320px;
+    background-color: gray;
+    font-size: 0;
+    display: inline-block;
+    margin-left: 50px;
+    vertical-align : top;
+}
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+div.menu2{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+div.menu3{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    font-size: 20px;
+    display: inline-block; 
+    vertical-align: top;
+}
+div.gazou{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+    display: inline-block;
+    font-size:0;
+    vertical-align: top;
+}
+div.bunsyou{
+    width: 700px;
+    height: 20px;
+    background-color: yellow;
+    display: inline-block;
+    font-size: 10px;
+    vertical-align: top;
+}
