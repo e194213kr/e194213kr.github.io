@@ -1,0 +1,56 @@
+div.title{
+    width: 1000px;
+    height: 50px;
+    margin-bottom: 20px;
+    background-color: blue;
+    text-align: left;
+    font-size: 30px;
+    font-family: "impact";
+}
+div.menu-title{
+    width: 1000px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-color: black;
+}
+div.menu1{
+    width:250px;
+    height:40px;
+    background-color: aqua;
+    display: inline-block;
+    vertical-align: top;
+}
+div.menu2{
+    width:250px;
+    height:40px;
+    background-color: aqua;
+    display: inline-block;
+    vertical-align: top;
+}
+div.menu3{
+    width:250px;
+    height:40px;
+    background-color: aqua;
+    display: inline-block;
+    vertical-align: top;
+}
+div.menu4{
+    width:250px;
+    height:40px;
+    background-color: aqua;
+    display: inline-block;
+    vertical-align: top;
+}
+div.gazou{
+    width: 1000px;
+    height:400px;
+    background-color: deepskyblue;
+    margin-bottom: 20px;
+}
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:orange;
+    text-align: right;
+    font-size: 20px;
+}
